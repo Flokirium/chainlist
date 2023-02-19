@@ -531,6 +531,12 @@ export const extraRpcs = {
   338: {
     rpcs: ["https://evm-t3.cronos.org/"],
   },
+  7171: {
+    rpcs: ["https://rpc-testnet.flokirium.tech/"],
+  },
+  7272: {
+    rpcs: ["https://rpc-mainnet.flokirium.tech/"],
+  },
   42161: {
     rpcs: [
       {
